@@ -17,7 +17,7 @@ python -m brightness
 
 ## set()
 ```python
-def set(value: int | float) -> None
+def set(value: int) -> None
 ```
 Sets the screen brightness to the entered value.
 
